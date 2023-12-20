@@ -1,0 +1,5 @@
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
+add_subdirectory(usuario)
+add_subdirectory(curso)
+add_subdirectory(bd)
+add_subdirectory(display)
