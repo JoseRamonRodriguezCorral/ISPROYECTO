@@ -1,4 +1,2 @@
-i12ropea;1111;Angel;Rodriguez Perez;12345678G;i12ropea@uco.es;0
-i12prueba;2222;Nombre de prueba;Apellidos de prueba;999999R;i12prueba@uco.es;1
+i22prueba;2222;Nombre de prueba;Apellidos de prueba;999999R;i22prueba@uco.es;1
 prueba2;1234;Nombre de prueba;pellidos de prueba;1234A;prueba@uco.es;0
-hola;22;hola;ola;hola;hola@uco.es;0
