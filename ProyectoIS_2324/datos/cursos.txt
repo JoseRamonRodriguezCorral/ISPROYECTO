@@ -1,3 +1,6 @@
 1;Curso de prueba;Esto es un curso de prueba;01/01/2023;22/12/2023;50;i12ropea,;i12prueba,
-2;Curso de prueba 2;Esto es un curso de prueba 2;01/01/2024;22/12/2024;50;i12ropea,;i12prueba,prueba2,
-4;Curso de prueba 4;robando la creación de un curso;01/02/2024;15/03/2024;100;i12ropea,;
+2;Curso de prueba 2;Esto es un curso de prueba 2;01/01/2024;22/12/2024;50;i12ropea,;i12prueba,prueba2,hola,
+4;Curso de prueba 4;robando la creación de un curso;01/02/2024;15/03/2024;100;i22rocoj,;
+3;Prueba de curso;urso de prueba;22/12/2023;25/12/2023;20;i22rocoj,;
+5;pruebamanual;rueba del manual de usuario;22/12/2023;01/01/2024;25;pruebamanual,;
+6;Curso de video;urso de video;22/12/2023;31/12/2023;12;i22rocoj,;

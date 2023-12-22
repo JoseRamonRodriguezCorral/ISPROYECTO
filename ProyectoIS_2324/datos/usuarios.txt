@@ -1,2 +1,4 @@
 i22prueba;2222;Nombre de prueba;Apellidos de prueba;999999R;i22prueba@uco.es;1
 prueba2;1234;Nombre de prueba;pellidos de prueba;1234A;prueba@uco.es;0
+i22rocoj;22;Jose Ramon;odriguez Corral;387426g;i22rocoj@uco.es;1
+hola;hola;hola;hola;hola;hola@uco.es;0
